@@ -1,0 +1,8 @@
+.grid {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    gap: 15px;
+}
+.turn {
+    color: white;
+}

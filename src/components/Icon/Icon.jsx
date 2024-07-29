@@ -8,4 +8,3 @@ function Icon({ name }) {
         return <FaPen/>
 }
 export default Icon;
- 
